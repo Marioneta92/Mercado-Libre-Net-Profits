@@ -1,6 +1,7 @@
 # Module 11 Challenge: Forecasting Net Prophet
 
-![image](https://user-images.githubusercontent.com/114365472/212206914-9e7a0a67-7577-4f82-9199-5eccdff3e46d.png)
+![image](https://user-images.githubusercontent.com/114365472/212207095-d13dec49-f48f-4772-94c4-211b698c2288.png)
+
 
 
 ## Background
